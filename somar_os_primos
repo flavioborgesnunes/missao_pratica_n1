@@ -24,6 +24,6 @@ para contUm  de 1 ate num faca
      soma <- (soma + contUm)
      fimse
 fimpara
-escreva("A soma de todos os números primos menores iguais a ", num, " é ", soma)
+escreva("A soma de todos os números primos menores ou iguais a ", num, " é ", soma)
 
 Fimalgoritmo
